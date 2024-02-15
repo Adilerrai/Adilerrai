@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
-<h3 align="center">A passionate Java Spring boor Backend developer from Morocco</h3>
+<h3 align="center">A passionate Java Spring Boot Backend developer from Morocco</h3>
 
 - 🔭 I’m currently working on **Berrkate.com**
 
